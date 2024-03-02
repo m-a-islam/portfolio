@@ -51,3 +51,10 @@ troubleshooting methods
 
 ## Publications
 1. Chowdhury, Mohaimanul Hoque, Muhammad Kamrul Islam and Shahidul Islam Khan. “Imputation of missing healthcare data.” 2017 20th International Conference of Computer and Information Technology (ICCIT) (2017): 1-6.
+
+## Contact
+**Email**
+- _muhammad.cse36@gmail.com_
+
+**LinkedIn**
+- [Muhammad Kamrul Islam LinkedIn Profile](https://www.linkedin.com/in/muhammad-kamrul-islam-495b37130/)
