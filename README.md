@@ -14,7 +14,7 @@
 - Developed SaaS
 - Contribute to system design, develop, implement, test, and, release
 
-**Software Developer @ CursorBD (_April 2018 - Jan 2019)**
+**Software Developer @ CursorBD (_April 2018 - Jan 2019_)**
 - Checked client code for bugs and weaknesses using approved
 troubleshooting methods
 - Helping with day-to-day project tasks
