@@ -1,5 +1,9 @@
 title: Muhammad Kamrul Islam
+<<<<<<< HEAD
+logo: /assets/img/logo-img.jpg
+=======
 logo: /assets/img/1.png
+>>>>>>> 330e50c8760e5fccb00a3882a15417b5ac889085
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
