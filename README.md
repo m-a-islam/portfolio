@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: PHP, C#, Python, C/C++, JavaScript, R, MATLAB
 
 ## Education							       		
 - MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2021-present_)	 			        		
@@ -19,5 +19,31 @@
 troubleshooting methods
 - Helping with day-to-day project tasks
 
+
+## Expertise and Interest
+- Cloud Computing
+- Distributed and scalable systems
+- API, RestFul-API
+- Micro-services
+- Machine learning (Supervised Learning, UnSupervised Learning, Reinforcement Learning)
+- Artificial Intelligence 
+
+## Tools and Programming Languages Skill set
+- Docker, K8s, CI/CD, Linux
+- Node.js, JavaScript, Typescript, Vanilla Js, Reactjs,
+- PHP, C#
+- C, C++, Python, R, Java
+- Version Control: Git
+- SQL & NoSql,
+- DynamoDB, MongoDB
+- TensorFlow
+
+## Languages
+**English**
+- C1
+**German**
+- A1, A2
+**Bengali**
+- Native
 ## Publications
 1. Chowdhury, Mohaimanul Hoque, Muhammad Kamrul Islam and Shahidul Islam Khan. “Imputation of missing healthcare data.” 2017 20th International Conference of Computer and Information Technology (ICCIT) (2017): 1-6.
