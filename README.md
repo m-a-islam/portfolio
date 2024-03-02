@@ -39,11 +39,15 @@ troubleshooting methods
 - TensorFlow
 
 ## Languages
+
 **English**
-- C1
+- _C1_
+
 **German**
-- A1, A2
+- _A1, A2_
+
 **Bengali**
-- Native
+- _Native_
+
 ## Publications
 1. Chowdhury, Mohaimanul Hoque, Muhammad Kamrul Islam and Shahidul Islam Khan. “Imputation of missing healthcare data.” 2017 20th International Conference of Computer and Information Technology (ICCIT) (2017): 1-6.
