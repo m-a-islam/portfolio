@@ -1,4 +1,4 @@
-# Software Engineer
+# Software Engineer / AI Tool Engineer
 
 #### Technical Skills: PHP, C#, Python, C/C++, JavaScript, R, MATLAB
 
@@ -7,7 +7,12 @@
 - BSc, Computer Science and Engineering | International Islamic University Chittagong (_May 2017_)
 
 ## Work Experience
-**Software Engineer @ Inter-Office GmbH (_June 2020 - Present_)**
+**Edge Artificial Intelligence (AI) Tooling Engineer (_May 2024 - Present_)**
+ - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
+ - Languages: python, c, c++
+ - Embedded Software development
+
+**Software Engineer @ Inter-Office GmbH (_June 2020 - April 2024_)**
 - Tools: Docker, Jenkins, CI/CD, Linux
 - Languages: PHP, JavaScript, TypeScript, MySql, Python
 - Test: Codeception, phpstan
@@ -27,6 +32,7 @@ troubleshooting methods
 - Micro-services
 - Machine learning (Supervised Learning, UnSupervised Learning, Reinforcement Learning)
 - Artificial Intelligence 
+- Embedded System
 
 ## Tools and Programming Languages Skill set
 - Docker, K8s, CI/CD, Linux
