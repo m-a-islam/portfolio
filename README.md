@@ -7,7 +7,7 @@
 - BSc, Computer Science and Engineering | International Islamic University Chittagong (_May 2017_)
 
 ## Work Experience
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon AG (_May 2024 - Present_)**
+**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies AG(_May 2024 - Present_)**
  - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
  - Languages: python, c, c++
  - Embedded Software development
