@@ -50,7 +50,7 @@ troubleshooting methods
 - _C1_
 
 **German**
-- _A1, A2_
+- B1: Continue 
 
 **Bengali**
 - _Native_
