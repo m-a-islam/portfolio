@@ -43,11 +43,13 @@ troubleshooting methods
 - SQL & NoSql,
 - DynamoDB, MongoDB
 - TensorFlow
+  
 ## Soft-skills
 - Communication
 - Public speaking
 - Leadership
 - Problem solving and cognitive thinking
+  
 ## Languages
 **English**
 - _C1_
