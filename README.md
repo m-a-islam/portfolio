@@ -1,6 +1,6 @@
 # Software Engineer / AI Tool Engineer
 
-#### Technical Skills: PHP, C#, Python, C/C++, JavaScript, R, MATLAB
+#### Technical Skills: PHP(Laravel, Yii-1, Yii-2, symfony, codeigniter), C#, Python, C/C++, JavaScript, R, MATLAB
 
 ## Education							       		
 - MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2021-present_)	 			        		
@@ -8,22 +8,22 @@
 
 ## Work Experience
 **Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies AG(_May 2024 - Present_)**
+ - Task: To streamline the process of training neural networks and automatically generate C code and test code for deploying the trained models on microcontrollers. Additionally, to quantize the trained models through pre and post-training steps to optimize performance, latency, and size.
  - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
  - Languages: python, c, c++
  - Embedded Software development
 
 **Software Engineer @ Inter-Office GmbH (_June 2020 - April 2024_)**
+- Task: To create, maintain, and enhance a scalable Software as a Service (SaaS) application, ensuring robust customer support, automated testing, and deployment processes through Continuous Integration and Continuous Deployment (CI/CD) pipelines.
 - Tools: Docker, Jenkins, CI/CD, Linux
 - Languages: PHP, JavaScript, TypeScript, MySql, Python
 - Test: Codeception, phpstan
-- Developed SaaS
 - Contribute to system design, develop, implement, test, and, release
 
 **Software Developer @ CursorBD (_April 2018 - Jan 2019_)**
 - Checked client code for bugs and weaknesses using approved
 troubleshooting methods
 - Helping with day-to-day project tasks
-
 
 ## Expertise and Interest
 - Cloud Computing
@@ -43,9 +43,12 @@ troubleshooting methods
 - SQL & NoSql,
 - DynamoDB, MongoDB
 - TensorFlow
-
+## Soft-skills
+- Communication
+- Public speaking
+- Leadership
+- Problem solving and cognitive thinking
 ## Languages
-
 **English**
 - _C1_
 
