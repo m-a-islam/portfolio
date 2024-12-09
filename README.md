@@ -15,6 +15,8 @@
 
 **Software Engineer @ Inter-Office GmbH (_June 2020 - April 2024_)**
 - Task: To create, maintain, and enhance a scalable Software as a Service (SaaS) application, ensuring robust customer support, automated testing, and deployment processes through Continuous Integration and Continuous Deployment (CI/CD) pipelines.
+- Deals with client/customer and resolve their requirements
+- Documentation of the user-guide for the end customer.
 - Tools: Docker, Jenkins, CI/CD, Linux
 - Languages: PHP, JavaScript, TypeScript, MySql, Python
 - Test: Codeception, phpstan
