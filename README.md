@@ -7,7 +7,7 @@
 - BSc, Computer Science and Engineering | International Islamic University Chittagong (_May 2017_)
 
 ## Work Experience
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies AG(_May 2024 - Present_)**
+**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_May 2024 - Present_)**
  - Task: To streamline the process of training neural networks and automatically generate C code and test code for deploying the trained models on microcontrollers. Additionally, to quantize the trained models through pre and post-training steps to optimize performance, latency, and size.
  - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
  - Languages: python, c, c++
