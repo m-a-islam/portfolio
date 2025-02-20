@@ -9,14 +9,14 @@
 - _Thesis_: Imputation of missing healthcare data. 2017 20th International Conference of Computer and Information Technology (ICCIT), 1-6.
 
 ## Work Experience
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_Dec 2024 - Present_)**
+**Edge Artificial Intelligence (AI) Tooling Engineer (Master Thesis Student) @ Infineon Technologies (_Dec 2024 - Present_)**
  - Task: Find the best neural Architecture without domain knowledge
  - Edge-aware best deep neural architecture
  - Developing search space, Evaluation process
  - Tools: TFLite, PyTorch, MLOPs, TensorFlow, Onnx, qemu
  - Languages: Python, c, c++
 
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_May 2024 - December 2024_)**
+**Edge Artificial Intelligence (AI) Tooling Engineer (Working Student) @ Infineon Technologies (_May 2024 - December 2024_)**
   - Task: To streamline the process of training deep neural networks 
   - Automatically generate C code
   - Test code for deploying the trained models on microcontrollers.
