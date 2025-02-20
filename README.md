@@ -3,15 +3,29 @@
 #### Technical Skills: PHP(Laravel, Yii-1, Yii-2, symfony, codeigniter), C#, Python, C/C++, JavaScript, R, MATLAB
 
 ## Education							       		
-- MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2021-present_)	 			        		
+- MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2021-present_)
+- _Thesis_: Exploring Deep Neural Network Model Compression Techniques for Edge Deployment 			        		
 - BSc, Computer Science and Engineering | International Islamic University Chittagong (_May 2017_)
+- _Thesis_: Imputation of missing healthcare data. 2017 20th International Conference of Computer and Information Technology (ICCIT), 1-6.
 
 ## Work Experience
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_May 2024 - Present_)**
- - Task: To streamline the process of training neural networks and automatically generate C code and test code for deploying the trained models on microcontrollers. Additionally, to quantize the trained models through pre and post-training steps to optimize performance, latency, and size.
- - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
- - Languages: python, c, c++
- - Embedded Software development
+**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_Dec 2024 - Present_)**
+ - Task: Find the best neural Architecture without domain knowledge
+ - Edge-aware best deep neural architecture
+ - Developing search space, Evaluation process
+ - Tools: TFLite, PyTorch, MLOPs, TensorFlow, Onnx, qemu
+ - Languages: Python, c, c++
+
+**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies (_May 2024 - December 2024_)**
+  - Task: To streamline the process of training deep neural networks 
+  - Automatically generate C code
+  - Test code for deploying the trained models on microcontrollers.
+  - Quantize the trained models
+  - Optimize performance, latency, and size.
+  - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
+   onnx, qemu
+  - Languages: python, c, c++
+  - Embedded Software development
 
 **Software Engineer @ Inter-Office GmbH (_June 2020 - April 2024_)**
 - Task: To create, maintain, and enhance a scalable Software as a Service (SaaS) application, ensuring robust customer support, automated testing, and deployment processes through Continuous Integration and Continuous Deployment (CI/CD) pipelines.
@@ -28,12 +42,10 @@ troubleshooting methods
 - Helping with day-to-day project tasks
 
 ## Expertise and Interest
-- Cloud Computing
 - Distributed and scalable systems
 - API, RestFul-API
 - Micro-services
-- Machine learning (Supervised Learning, UnSupervised Learning, Reinforcement Learning)
-- Artificial Intelligence 
+- Machine learning (Supervised Learning, Un-Supervised Learning, Reinforcement Learning)
 - Embedded System
 
 ## Tools and Programming Languages Skill set
